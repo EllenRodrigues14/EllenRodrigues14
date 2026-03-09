@@ -153,7 +153,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original
 * 🎮 Game Development
 * 🎨 Pixel Art
 * 🔌 Arduino / eletrônica
-* 📊 Estudos iniciais em Data Science
+* 📊 Estudos iniciais em Data Science e c++
 
 ---
 
