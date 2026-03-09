@@ -6,7 +6,7 @@ Me chamo Ellen Rodrigues, tenho 15 anos e moro em São Paulo. Atualmente estou n
 
 Tenho interesse principalmente em **desenvolvimento web e desenvolvimento de jogos**. Gosto de criar projetos para aprender novas tecnologias e pretendo compartilhar meus projetos aqui no GitHub.
 
-Também estudo **Game Development, Data Science e eletrônica com Arduino**. Além da programação, também faço **Pixel Art**, algo que gosto de usar em projetos de jogos.
+Também estudo **Game Development, ComfyUi, Data Science e eletrônica com Arduino**. Além da programação, também faço **Pixel Art**, algo que gosto de usar em projetos de jogos.
 
 🚀 Sempre aprendendo novas tecnologias e desenvolvendo projetos para evoluir como programadora.
 
